@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/dir.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/excel.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/file.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/music.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/pdf.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/picture.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/sound.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/text.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/video.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/word.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/file-icon/zip.png</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/FileExplorerPage.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/FileExplorer/FileExplorerView.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/ImageExplorer/ImageExplorerPage.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/ImageExplorer/ImageListView.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/MainView/ExplorePage.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/MainView/ServerPage.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/MainView/WealthPage.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/MainView/ZhiFuBaoPage.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/SettingsPage/SettingsPage.qml</file>
+        <file>qml/StandardQtOnAndroid/BusinessPage/VideoPlayer.qml</file>
+        <file>qml/StandardQtOnAndroid/Component/LockView/LockPoint.qml</file>
+        <file>qml/StandardQtOnAndroid/Component/LockView/LockView.qml</file>
+        <file>qml/StandardQtOnAndroid/Component/RowIconLabel.qml</file>
+        <file>qml/StandardQtOnAndroid/resource/Qt.png</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/+android/UI.js</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/ApplicationSettings.qml</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/BottomBar.qml</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/Page.qml</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/PageStackWindow.qml</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/qmldir</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/QObject.qml</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/SampleLabel.qml</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/TopBar.qml</file>
+        <file>qml/StandardQtOnAndroid/Sparrow/UI.js</file>
+        <file>qml/StandardQtOnAndroid/main.qml</file>
+        <file>qml/StandardQtOnAndroid/MainView.qml</file>
+        <file>qml/StandardQtOnAndroid/MainWindow.qml</file>
+    </qresource>
+</RCC>
