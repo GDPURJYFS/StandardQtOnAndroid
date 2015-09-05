@@ -1,9 +1,9 @@
 import QtQuick 2.4
 import QtQuick.Controls 1.2
 
-//! [1]
+//! [0]
 // import "./Component/LockView" as LockView
-//! [1]
+//! [0]
 
 QtObject {
     id: main
@@ -36,5 +36,5 @@ QtObject {
     //            }
     //        }
     //    }
-    //! [1]
+    //! [0]
 }
